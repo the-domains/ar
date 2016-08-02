@@ -6,9 +6,10 @@ color:
   saturation: 0.03386238683015108
   rhythmicContrast: 0.6363875844981521
   brandColors:
-    - '#252729'
-    - '#454742'
-    - '#746D5B'
-    - '#B9A989'
-    - '#FEF9DD'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: AR+
+title: AR+
